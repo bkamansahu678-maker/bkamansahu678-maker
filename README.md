@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aman 👋
 
-<!--
-**bkamansahu678-maker/bkamansahu678-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineering Student
 
-Here are some ideas to get you started:
+## About Me
+- 🔧 Interested in Design and Manufacturing
+- 💻 Learning Python and Git
+- 📚 Exploring CAD, FEA, and Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SolidWorks
+- AutoCAD
+- Python
+- Git & GitHub
+
+## Current Goals
+- Build engineering projects
+- Contribute to open source
+- Create a strong portfolio
